@@ -13,7 +13,7 @@ Note that initial result will be shown after one minute from the boot.
 
 * [platformio](http://docs.platformio.org/en/latest/)
 
-### FreeBSD
+### Additional requirements for FreeBSD
 
 Some platformio packages have not been officially provided. You may build
 them, or install packages from the links below.
